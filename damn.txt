@@ -1,0 +1,2 @@
+hellooooooooo 
+second method of write string
